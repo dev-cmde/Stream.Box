@@ -34,8 +34,8 @@
 
 ## 🤝 Поддержка
 💬 Задавайте вопросы в [Discussions](https://github.com/dev-cmde/Stream.Box/discussions)\
-📝 Сообщайте об ошибках в [Issues](https://github.com/dev-cmde/Stream.Box/issues)\
-✈️ Я на связи в [Телеграм](https://t.me/cmrd_e?direct)
+📢 Сообщайте об ошибках в [Issues](https://github.com/dev-cmde/Stream.Box/issues)\
+✉️ Я на связи в [Телеграм](https://t.me/cmrd_e?direct)
 
 ---
 
