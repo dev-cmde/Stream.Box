@@ -42,9 +42,9 @@
 
 <div align="center">
 
-### ⬇️ [Скачать последнюю версию для Windows](https://github.com/dev-cmde/Stream.Box/releases/latest/download/Stream.Box.exe)
+### ⬇️ [Скачать последнюю версию для Windows](https://github.com/dev-cmde/Stream.Box/releases/latest/download/Stream.Box.exe) ⬇️
 
-⭐ Поставьте звезду, если проект полезен
+⭐ Поставьте звезду, если проект полезен ⭐
 
 </div>
 
