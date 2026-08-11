@@ -21,7 +21,7 @@
 ---
 
 ## ✨ Интерфейс
-![Интерфейс](https://streambox.cmde.ru/images/Stream.Box.png)
+444
 
 ---
 
