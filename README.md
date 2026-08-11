@@ -21,7 +21,7 @@
 ---
 
 ## ✨ Интерфейс
-![Интерфейс](https://dev.cmde.ru/streambox/Stream.Box.png)
+![Интерфейс](https://streambox.cmde.ru/images/Stream.Box.png)
 
 ---
 
