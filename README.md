@@ -52,8 +52,12 @@
 
 ### ⬇️ [Скачать последнюю версию для Windows](https://github.com/dev-cmde/Stream.Box/releases/latest/download/Stream.Box.exe) ⬇️
 
-⭐ Поставьте звезду, если проект полезен ⭐
-
 </div>
 
 ---
+
+<div align="center">
+
+#### ⭐ Поставьте звезду, если проект полезен ⭐
+
+</div>
