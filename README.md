@@ -21,8 +21,7 @@
 ---
 
 ## ✨ Интерфейс
-<img width="1350" height="800" alt="Stream Box" src="https://github.com/user-attachments/assets/be5bbc5e-7251-41a4-a841-f893d4de683e" />
-
+<img width="1294" height="775" alt="Stream Box" src="https://github.com/user-attachments/assets/180c6038-b43a-4c8c-abf5-df28d48a9847" />
 
 ---
 
