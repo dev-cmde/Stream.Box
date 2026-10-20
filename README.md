@@ -70,7 +70,8 @@
 ## 🤝 Поддержка
 💬 Задавайте вопросы в [Discussions](https://github.com/dev-cmde/Stream.Box/discussions)\
 📢 Сообщайте об ошибках в [Issues](https://github.com/dev-cmde/Stream.Box/issues)\
-✉️ Или можно напрямую в личку канала [Телеграм](https://t.me/cmrd_e?direct). Я там на связи по любым вопросам.
+✉️ Можно напрямую в личку канала [Телеграм](https://t.me/cmrd_e?direct).
+✉️ Или в Discord: comrad_e
 
 ---
 
