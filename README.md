@@ -23,8 +23,9 @@
 
 ---
 
-## ✨ Интерфейс
-<img alt="Stream Box" src="https://streambox.cmde.ru/sb017.webp" />
+<div align="center">
+<img alt="Stream Box" src="https://streambox.cmde.ru/images/hero-square.jpg" />
+</div>
 
 ---
 
@@ -68,10 +69,8 @@
 ---
 
 ## 🤝 Поддержка
-💬 Задавайте вопросы в [Discussions](https://github.com/dev-cmde/Stream.Box/discussions)\
-📢 Сообщайте об ошибках в [Issues](https://github.com/dev-cmde/Stream.Box/issues)\
-✉️ Можно напрямую в личку канала [Телеграм](https://t.me/cmrd_e?direct)\
-✉️ Или в Discord: comrad_e
+- ✉️ Пишите в [Телеграм](https://t.me/streambox_news)
+- ✉️ Или в [Discord](https://discord.gg/r7b82mEFMz)
 
 ---
 
