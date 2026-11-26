@@ -24,7 +24,7 @@
 ---
 
 <div align="center">
-<img width="600" alt="Stream Box" src="https://streambox.cmde.ru/images/hero-square.jpg" />
+<img width="500" alt="Stream Box" src="https://streambox.cmde.ru/images/hero-square.jpg" />
 </div>
 
 ---
